@@ -1,0 +1,5 @@
+E1E1D7  White
+F6D65D  Yellow
+B81F21  Red
+66A3B5  Teal
+1B2A3D  Dark Blue
