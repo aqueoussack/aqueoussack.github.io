@@ -2759,6 +2759,10 @@ ul.menu li:first-child {
 
 	/* Wrappers */
 
+	.wrapper {
+		padding: 0 15px 40px 15px;
+	}
+
 	#header-wrapper {
 		padding: 3em 0 1.5em 0;
 	}
