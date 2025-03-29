@@ -2023,6 +2023,10 @@ ul.menu li:first-child {
 
 /* Wrappers */
 
+.wrapper {
+	padding: 0 15px 40px 15px;
+}
+
 #header-wrapper {
 	padding: 4.5em 0 3em 0;
 }
