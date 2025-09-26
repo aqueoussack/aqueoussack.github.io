@@ -1615,7 +1615,7 @@ form input[type="email"],
 form input[type="password"],
 form select,
 form textarea {
-	-webkit-appearance: none;
+	/*-webkit-appearance: none;*/
 	display: block;
 	width: 100%;
 	border-radius: 8px;
@@ -1747,7 +1747,7 @@ button,
 	-webkit-transition: background-color .25s ease-in-out;
 	-ms-transition: background-color .25s ease-in-out;
 	transition: background-color .25s ease-in-out;
-	-webkit-appearance: none;
+	/*-webkit-appearance: none;*/
 	position: relative;
 	display: inline-block;
 	background: #b81f21;
